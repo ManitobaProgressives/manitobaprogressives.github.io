@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+        <div class="container-fluid">
+       	 <main class="tm-main">
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+              <!--      <img src="img/VoteHere.jpg" alt="Image" class="img-fluid">   -->
+                </div>
+            </div>
+
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+                        <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Elected Administrators & Scribe Vote 2020</h4>
+			    		<p> <BR>
+		<!--  Please review the Community Constitution prior to completing this vote. <BR>
+		To view the Community Constitution click <a href="http://mtgcaptain.cards/Constitution.html">HERE</a> <BR>
+		*For Best Results - Use A Desktop Browser To Complete This URL*</p> <BR>
+		<p> Before proceeding to the vote please be aware of the STAR voting system and all it's benefits; </p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/e3GFG0sXIig?controls=0&amp;start=124" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> <BR>
+		<p> Please rate each candidate. You will need to navigate to the link below. </p><BR>
+		<li><a href="https://star.vote/captaineavote/">ELECTED ADMINISTRATOR Vote</a></li> <BR>
+		<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title"><a href="https://youpoll.me/48009/">ELECTED ADMINISTRATOR & SCRIBE Vote</a></h4> <BR> <BR> <BR>
+		<li><a href="https://star.vote/mtgcaptainscribe/">SCRIBE Vote</a></li> <BR> -->
+		
+		<p> ELECTION RESULTS ARE IN! Please see below for the results supplied December 13, 2020 @ 21:58 <BR>
+		EA Results;	 </p> 
+		<img src="img/Election_Results_2020-EA.png" alt="Image" class="img-fluid"> <BR>
+		<p> Scribe Results; </p>
+		<img src="img/Election_Results_2020-Scribe.png" alt="Image" class="img-fluid">
+		
+			<h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Candidates Introduction</h4>
+					<p> [ Ordered Alphabetically ] <BR>
+					________________________________ </p>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Ammo37#1317</h4>
+					<p>
+					I was on the ground floor at the creation of this format. Sat through meetings and philosophy discussions before we had any kind of structure within discord. Helped collate people after the diaspora. I've always put the format first above my own feelings and ideas and I will continue to do so. I firmly believe in the ethical core of Captain, transparency and community led format. I have my own ideas I'd like to champion and discuss, but I am not married to my own ideas. I will uphold that anything we do must be thought out and discussed, and have reasoning behind it. I will act as a foil for others' ideas to explore their merit and refine them. Above all I wish to see this format grow and thrive as I know it can. We have already accomplished something amazing, now we just need to keep it going.
+					</p> <BR>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Furry Combat Wombat#4959</h4>
+					<p>
+					Hello, my name is Furrycombatwombat, and I'd love to have the honor of being one of your elected administrators. I have been playing MtG for around 10 years. I have experience in nearly every format at many competetive levels. <BR> <BR> As such, I have a firm understanding of how card interactions can either be healthy or toxic to the fun of the game for all players. Feel free to dm me with any questions :D
+					</p> <BR>		
+					
+					<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Joats#2694</h4>
+					<p>
+					No Introduction at this time
+					</p> <BR>	
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Loller#3896</h4>
+					<p>
+					No Introduction at this time
+					</p> <BR>			
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Mekkis#8195</h4>
+					<p>
+					I'm nominating myself for EA. <BR>
+					A bit about myself: In my two decades of Magic, I have been a good magic player. Then an L2 Judge. Now I am neither :) <BR>
+					I am a firm believer in evidence over anecdote, and results over hyperbole. I will try to ensure proposals are based on documented evidence. <BR>
+					I am willing to accept that the Captain format may sit in a lull for some time, but needs to be ready for the next influx of interest when WotC inevitably makes Another Bad Decision. <BR>
+					To this end, I believe that we need to largely maintain compatibility with EDH, and display cohesion and community to prevent a rehash of the Previous Discord Server. <BR>
+					As a player in the APAC region, I hope to counter the apparent US-centric bias that we have seen. <BR>
+					If you have any questions on where I stand, please message me and I'll try to get back to you.
+					</p> <BR>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">RawHawk#1093</h4>
+					<p>
+					Hello,<BR> <BR>
+
+					I would like to enter this role as an Elected Administrator. My education, certificates, diplomas, and real life experience in administration would give me the skills to enact popular demand into reality.<BR> <BR>
+
+					With a decade of experience as a Senior network, systems, security, and infrastructure administrator I have the disciplines to see a demand and implement it in a way that not only functions but also serves a purpose greater to the many over the few.<BR>
+
+					Since October 2003 I have been actively playing Magic the Gathering starting as a Vintage player eventually branching out to Modern, EDH, Standard, and now Captain. With these 17 years of experience in the community I have seen many shifts and changes. One thing always stays the same. Wizards of the Coast is a company and we are buying their product. But the product is not what we remember. It is the times enjoying the product with the people we care about. Winning, losing, and sometimes turns taking so long we run out of time to play. Smiles, forehead wrinkles, head scratches, asking "Will you pay 1 for that?".<BR> <BR>
+
+					Protecting the time spent and quality of gameplay is why I am running. Whatever the community demands I will enact.<BR> <BR>
+					If the community mass demands something I do not want, I will be the first person to volunteer to code the web page to announce the new changes the community wants. It is us working together democratically that will bring balance back to this game.<BR> <BR>
+
+					It is the purpose of an EA to push new changes across without bias. I will enforce the Constitution and will demand rigid guidelines all EAs must follow with complete transparency. <BR> <BR>
+
+					I hope I get your vote.<BR> <BR>
+
+					Thank you,<BR>
+					RawHawk#1093
+					</p> <BR>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Shushir#4597</h4>
+					<p>
+					Hey all, Shushir here. I'm announcing my candidacy for the position of Elected Administrator. I view the position of Administrator as a conduit to reflect and carry out the will of the Captain community at large, which I believe should take precedence over my own opinions on any specific changes to the format or Constitution. I am confident that my years of leadership experience in both logistical and executive roles in multiple organizations will serve the community well and help carry out their will effectively and efficiently. While I believe that the community's will at large should carry precedence over any of my own positions as an individual, I would like to take steps to help increase deck and playstyle diversity within the format of Captain, including steps to make aggro a more viable archetype in a format where combo and control decks seem to reign supreme by numbers. I hope that the community will chose to put me in a position in which I'm able to best carry out my primary goal, which is to help the format grow and prosper, and to build a strong, interconnected community. If anyone has any questions about my opinions on any specific format issues, I will freely discuss them.
+					</p> <BR>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">SillyHalfOrc#5235</h4>
+					<p>
+					I know this format cannot survive as a Commander derivative. We need to experiment with new rules, bold changes and better ban list management. As an EA I promise to be open to crazy and radical departures. <BR> <BR>
+					I see the blacklist as a direct obstacle to our democratic intentions and our evolution. I think that if the community wants to play with silver boarder cards, conspiracies or even BABs they should be able to. The way it is structured to be resistant to change is frustrating as the community is capable of self-regulation.<BR> <BR>
+					Above all the will of the community is the most important thing. Regardless of what I want the community comes first.
+					</p> <BR>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">That.Schrade#5566</h4>
+					<p>
+					I nominate myself, That.Schrade, for the position of elected administrator. I am fairly new to the game as I have only been playing for around 4 years. I originally got into Commander because of the opportunity for multiple different and unique play styles and decks. As an EA, I will be looking for all crazy and unique ideas that the community has. I think for Captain to grow and evolve into something separate from Commander, it has to be open to new suggestions and various ideas coming together. My dms will always be open to those who have ideas or just want ask me about something.
+					</p> <BR>
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">Xenagos#6969</h4>
+					<p>
+					Hello my name is Xenagos and I’m here to officially announce my candidacy for EA. I’ve been active in the creation of the Captain format since the beginning, and a magic player for nearly a decade. I want to help elevate the voices of the community while maintaining transparency and reasoning in my decisions. Most importantly, I vow that I shall not be cringe. I look forward to serving the Captain community. If you have any questions about my platform, do not hesitate to reach out.
+					</p> <BR>
+					
+					
+						<h4 class="pt-3 tm-mb-20 tm-color-primary tm-post-title">YinsoTheAkuma#9229</h4>
+					<p>
+					I nominate myself, Yinso the Akuma. The Captain Format is chiefly a democratic endeavor run by the community. The role of EAs is to facilitate the will of the community and strictly obey the Constitution as-written. It's not a position that requires conventional political agendas and it does not carry any power, only duties to serve, to be eminently answerable to the community, and to hold other EAs to that same standard. As a member of the community, I think Captain is in trouble. We've lost a lot of inertia and morale is low. We need to create ways to engage our existing community, demonstrate value to potential members, and distinguish ourselves from Commander. Captain conludia est.
+					</p> <BR>
+                    </div>                    
+                </div>
+            </div>
+			
+			
+		
+			
+			
+<!--			
+<iframe src="https://rcv-app.firebaseapp.com/embed/-MNirz5xoq0aJzGrQFGh" frameborder="0" width="100%" height="800px"></iframe>
+-->
+
+
+	</main>
+
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>					   
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<!--
+Website design modified from TemplateMo 553
+-->
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+    <div class="container-fluid">
+        <main class="tm-main">
+<!-- Search form 
+            <div class="row tm-row">
+                <div class="col-12">
+                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
+                        <button class="tm-search-button" type="submit">
+                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
+                        </button>                                
+                    </form>
+                </div>                
+            </div>         
+-->
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <img src="img/SisayWeatherlightCaptain.jpg" alt="Image" class="img-fluid">
+                </div>
+            </div>
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+					
+					<iframe src="https://docs.google.com/document/d/e/2PACX-1vS_ZxyC9xJr6mOoz-wtWRETWw1em0qFHKaMIh3OxMNRl0xX37VPtQhZUpqCEG3KAK5h3rRhHYuYYgY6/pub?embedded=true" width="960" height="900" allowfullscreen="true"></iframe>
+					
+					<!--
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">About Captain</h2>
+                        <p>
+                        Captain is a format that focuses on transparency, accountability, and community involvement. 
+						<BR> <BR>
+                        Welcome aboard the Captain Format! <BR>
+Captain is a casual, multiplayer, singleton format of Magic: the Gathering. The format is one that focuses on transparency, accountability, and community involvement. Captain is dedicated to creating a format that is democratically run by and for the Community. In this endeavour, Captain will ensure that all true decision making power is left in the hands of its Community Members. <BR> <BR>
+
+					<strong>  Finding a Game  </strong> <BR>
+						Members of the Captain Discord server are always looking for a game of Captain. We play via webcam as well as; </p> <BR>
+						<ul class="b">
+						<li><a href="https://magic.wizards.com/en/mtgarena">Magic Arena</a></li>
+						<li><a href="https://magic.wizards.com/en/mtgo">MTG Online</a></li>
+						<li><a href="https://ponymtg.github.io/cockatrice1.html">Cockatrice</a></li>
+						<li><a href="https://www.spelltable.com/">SpellTable</a></li>
+						<li><a href="https://untap.in/">Untap.in</a></li>
+						<li><a href="http://xmage.de/">XMage</a></li>
+						</ul>
+						<p> Ask around in the #general-captain or the #lfg channel to find folks who are interested in games. </p> <BR>
+			
+                    <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">How Does Captain Work?</h2>
+                        <p>
+						The Captain Format strives to be a democratically-managed Magic: the Gathering format where players themselves submit proposals to change the format and then vote on those changes. <BR> <BR>
+						The foundation of the format is structured by the Captain Constitution, a governing document  that was crafted by early adopters of Captain and was ratified by a Community Vote on November 22, 2020. You can find a Constitution TLDR at the bottom of this page. <BR>
+						The governing body that oversees the format is called the Elected Administrators (EAs for short) which consists of 7 members and a Scribe. The purpose of the EAs is to facilitate the voice of the Community and adhere to the Constitution. EAs are elected by the Community each year and serve 2 year terms with a maximum of 2 non-consecutive terms. EAs are responsible for remaining active within the Community and fostering its development. All EA meetings and decisions are made publicly available. <BR>
+						It is important to note that the EAs do not make decisions unilaterally and that all format decisions are made through community voting. <BR>
+						The process for implementing changes to the Captain format is simple. Community Members can submit a proposal to the submission form on the website. The most popular proposals put forth by the Community are then vetted and voted on by the EAs during their next meeting. The proposals are then passed on to the wider Captain Community for a full vote. If the proposal passes, it is implemented into the format within 7 days. <BR> <BR>
+						Aside from elected office there are volunteer committees within Captain: <BR>
+						<ul>
+						<li> The Information Technology Committee (IT) focuses on the website, creating a secure voting system, IT security, accounts administration, and ensuring all documents created by Elected Administrators are readily available in one location online.	</li>
+						<li> The Social Media Committee (SM) manages our social media platforms. They share updates, community events, and Magic news.	</li> <BR>
+						If you’re interested in joining one of the committees just reach out on one of our platforms and ask! </p>
+						
+					<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">The History</h2>
+					<p> When Captain was first realized, it was created on an unmoderated Discord server. It was quickly overrun with bigots and subsequently shut down.	<BR> <BR>
+					We created a new server and since removed many of these bad actors from the server, but they defined the early reputation of Captain, and reputations are hard to shake. The best way to change it is for Captain to be an open community that’s welcoming to Magic players who are welcoming to others. <BR> <BR>
+					As we moved on from the wreckage of our past, we redoubled our efforts in order to make a Community run format a reality. On November 22nd, 2020 the Community ratified the Captain Constitution and on December 13th, 2020 the first class of Elected Administrators were chosen. <BR> <BR>
+					
+					EAs Elected in Founding Year 2020: <BR>
+					<li> Ammo37#1317	</li>
+					<li> FurryCombatWombat#4959	</li>
+					<li> Mekkis#8195	</li>
+					<li> RawHawk#1093	</li>
+					<li> Shushir#4597	</li>
+					<li> SillyHalfOrc#5235	</li>
+					<li> Xenagos#6969	</li>  <BR> <BR>
+					
+					Scribe Elected in Founding Year 2020: <BR>
+					<li> HobbitWhoCould#4068 (Scribe)	</li> <BR> <BR>	
+					</p>
+					
+					<p> <strong>  The Future  </strong> <BR>	
+					Captain isn’t drastically different from Commander right now. People say we need to distinguish ourselves from Commander. As the format grows, differences will arise, but for the time being our foundation of democratic inclusion and reliance on the Magic: The Gathering community is already a noteworthy distinction. <BR>
+					We listen to criticisms of Captain and of The Captain Format--certainly, we have enough of them among ourselves--and we encourage you to listen to those criticisms as well and offer your own, but we appreciate you giving the format a chance, hope you stick around, and would be happy to play some games with you. Welcome aboard! </p> <BR>
+						
+					<img src="img/ConstitutionTLDR.jpg" alt="Image" class="img-fluid">
+					-->
+			
+			<!--
+			<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">EULA</h2>
+                        <li><a href="http://mtgcaptain.cards/EULA.html">To view and understand the End User License Agreement (EULA) click here.</a></li>
+			-->
+			    
+			<!--
+                        <h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">TITLE_TEXT</h2>
+                        <p>
+                            PARAGRAPH_TEXT
+                        </p> 
+			-->
+			    
+                    </div>                    
+                </div>
+            </div>
+
+		
+        </main>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+</body>
+</html>

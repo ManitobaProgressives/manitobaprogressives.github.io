@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+    <div class="container-fluid">
+        <main class="tm-main">
+            <!-- SEARCH BAR AT THE TOP
+            <div class="row tm-row">
+                <div class="col-12">
+                    <form method="GET" class="form-inline tm-mb-80 tm-search-form">                
+                        <input class="form-control tm-search-input" name="query" type="text" placeholder="Search..." aria-label="Search">
+                        <button class="tm-search-button" type="submit">
+                            <i class="fas fa-search tm-search-icon" aria-hidden="true"></i>
+                        </button>                                
+                    </form>
+                </div>                
+            </div>  
+		-->
+    
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <!-- <img src="img/BookOfRass.jpg" alt="Image" class="img-fluid"> -->
+                </div>
+            </div>
+
+            <div class="row tm-row tm-mb-40">
+                <div class="col-12">                    
+                    <div class="mb-4">
+                        <h4 class="pt-2 tm-mb-20 tm-color-primary tm-post-title">Privacy Policy</h4>
+						<iframe src="https://docs.google.com/document/d/e/2PACX-1vQfbuhyYl5Eir-n5a05BYlRQUKr0TxhfSEPdpQCGUve8aOaB_PL9K8TJox0K0V5c-koKFJsmMP8O5XI/pub?embedded=true" width="100%" height="1250"></iframe>
+                    </div>                    
+                </div>
+            </div>
+
+				
+
+        </main>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>					   
+</html>

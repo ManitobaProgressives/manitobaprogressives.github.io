@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>MTG Captain</title>
+	<link rel="stylesheet" href="fontawesome/css/all.min.css"> <!-- https://fontawesome.com/ -->
+	<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap" rel="stylesheet"> <!-- https://fonts.google.com/ -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+	<head>  
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>  
+	</head>
+	
+	<!--Navigation bar-->
+<div id="nav-placeholder">
+
+</div>
+
+<script>
+$(function(){
+  $("#nav-placeholder").load("Nav.html");
+});
+</script>
+<!--end of Navigation bar-->
+
+    <div class="container-fluid">
+        <main class="tm-main">
+            <div class="row tm-row tm-mb-45">
+                <div class="col-12">
+                    <hr class="tm-hr-primary tm-mb-55">
+                    <img src="img/PleaForPower.jpg" alt="Image" class="img-fluid">
+                </div>
+            </div>
+
+
+				<div class="col-12">                    
+					<div class="mb-4">
+						<h2 class="pt-2 tm-mb-40 tm-color-primary tm-post-title">Community Member FAQ</h2>
+						<p>
+						
+						 <Strong>Q.</Strong> I am a magic player who wants to join Captain. <BR>
+						 What are is the cost to join? <BR>
+						 
+						 <Strong>A.</Strong> Free to join. All we ask is you follow the rules. 
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> Cool, so where do I find these rules?
+						 <BR>
+						 
+						 <Strong>A.</Strong> Great question! You can find the Community Constitution <Strong><u><a href="https://mtgcaptain.cards/Constitution.html">HERE</a></Strong></u><BR>
+						 The End User License Agreement (EULA) <Strong><u><a href="https://mtgcaptain.cards/EULA.html">HERE</a></Strong></u><BR>
+						 The Privacy Policy <Strong><u><a href="https://mtgcaptain.cards/PrivacyPolicy">HERE</a></Strong></u>
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> Thanks! That's swell of ya but wowie that sure is a lot to read. <BR>
+						 Is there a more condensed version I could read?
+						 <BR>
+						 
+						 <Strong>A.</Strong> Yeah that is a lot of text. Check out Captain TLDR <Strong><u><a href="https://mtgcaptain.cards/Captain-TLDR">HERE</a></Strong></u><BR>
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> Neat. First thing I should do is join a Social Media platform, then I can play some games. <BR>
+						 What if I need help if I get stuck on the Social Media platform?
+						 <BR>
+						 
+						 <Strong>A.</Strong> Chat with a Social Media Moderator. <BR>
+						 These are the people who enforce the Community Constitution but also are there to assist with their own Social Media and it's channels or tabs. <BR>
+						 Moderators cannot assist with technical issues or bugs, but can help with rules enforcement, rules questions, and how to find a Social Media function in the community.
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> Okay that is good. How about if I have a technical issue, need access to something technical on the website or Social Media platform, <BR>
+						 or have an idea / improvement I want to see done on the website or Social Media platform. <BR>
+						 Who do I talk to?
+						 <BR>
+						 
+						 <Strong>A.</Strong> Feel free to ask one of the IT members. <BR>
+						 If none are available talk to a Mod as the Mods all have direct connections to IT so that an IT member can find and talk to you. <BR>
+						 IT cannot assist with user moderation or rules enforcement, but can help with bots, platform functions, and many other tasks.
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> Super! So how about if I have a card I want banned, unbanned, or a rule changed. <BR>
+						 How do I make my change happen?
+						 <BR>
+						 
+						 <Strong>A.</Strong> We want to see your suggestion. Send it over to the Community Proposals page found <Strong><u><a href="https://mtgcaptain.cards/CommunityProposals.html">HERE</a></Strong></u> <BR>
+						 Be sure to include as many details as possible. The more details about a specific concern the better the odds it will be passed into the format. <BR>
+						 Don't forget to include your Discord username or some kind of user handle so you have a chance to update it later and if we need to contact you back to make it viable for a vote. <BR>
+						 If you don't sign it you run the very real risk of having the proposal denied.
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> That sounds simple. Details details details, or else lack of results. <BR>
+						 Where do I find the proposals submitted so far?
+						 <BR>
+						 
+						 <Strong>A.</Strong> All proposals past, present, and future will be found <Strong><u><a href="https://mtgcaptain.cards/Archived-Proposals">HERE</a></Strong></u>
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> Okay. So who is in charge of the format? Who is the manager or boss?
+						 <BR>
+						 
+						 <Strong>A.</Strong> No one is. <BR>
+						 Each department is responsible to complete tasks, but there is no such thing as a manager or boss or ruler of any kind. <BR>
+						 This is a democratic format meaning there is zero hierarchy, only responsibilities which differ in different departments. <BR>
+						 <BR>
+						 - Elected Administrators filter proposals, push vote requirements to IT to setup <BR>
+						 - Scribe tracks and moderates Elected Administrator events, and publish vote results on an as needed basis <BR>
+						 - Social Media (Moderators) enforce the Community Constitution on Social Media platforms, as well as moderate bad faith members on their own platforms <BR>
+						 - IT handles technology maintenance, host technical infrastructures, change management, and follows requests of other departments while maintaining integrity of platform security <BR>
+						 <BR> <BR>
+						 
+						 
+						 
+						 <Strong>Q.</Strong> That sounds  really good. <BR>
+						 Is there anything else I need to know?
+						 <BR>
+						 
+						 <Strong>A.</Strong> At this time I do not think so, you asked a lot of good questions we hope we were able to help with. <BR>
+						 If you do have any new questions you need answering and what to see those posted here please contact the IT department. <BR>
+						 <BR>
+						 Thank you, <BR>
+						 - The Captain's Crew
+						 <BR> <BR>
+						 
+						 
+						 <!--
+						 <Strong>Q.</Strong> 
+						 <BR>
+						 
+						 <Strong>A.</Strong> 
+						 <BR> <BR>
+						 -->
+						 </p>
+					</div>             
+                </div>
+            </div>
+        </main>
+    </div>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/templatemo-script.js"></script>
+	<script>
+	var acc = document.getElementsByClassName("accordion");
+	var i;
+
+	for (i = 0; i < acc.length; i++) {
+	  acc[i].addEventListener("click", function() {
+	    this.classList.toggle("active");
+	    var panel = this.nextElementSibling;
+	    if (panel.style.display === "block") {
+	      panel.style.display = "none";
+	    } else {
+	      panel.style.display = "block";
+	    }
+	  });
+	}
+	</script>
+</body>
+</html>
