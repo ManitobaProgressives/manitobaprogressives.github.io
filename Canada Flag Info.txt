@@ -1,0 +1,12 @@
+Red
+PANTONE: PMS Red 032 C
+Hex (HTML): #EF3340;
+RGB: (239 51 64)
+CMYK: (0 86 63 0)
+
+
+
+White
+Hex (HTML): #ffffff;
+RGB: (255 255 255)
+CMYK: (0 0 0 0)
