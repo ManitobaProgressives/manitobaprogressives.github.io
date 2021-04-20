@@ -1,0 +1,5 @@
+Royal Purple Hex: 8C49A3
+RGB Decimal 	140, 73, 163
+
+Indigo Purple: 4b0082
+RGB Decimal 	75, 0, 130

@@ -1,0 +1,20 @@
+Github A records
+
+185.199.108.153
+185.199.109.153
+185.199.110.153
+185.199.111.153
+
+Github CNAME record
+
+manitobaprogressives.github.io.
+
+
+
+Poliengine A records
+
+34.202.63.170
+
+Poliengine CNAME record
+
+manitobaprogressives.ca
